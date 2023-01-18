@@ -61,3 +61,5 @@ install.packages("mockr")
     ```
     
 1. `devtools::test()` works as expected
+
+Installing fork with `remotes::install_github("mrc-ide/mockr")` fixes these issues and tests can be run interactively
