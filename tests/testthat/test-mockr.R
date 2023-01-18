@@ -1,4 +1,4 @@
-test_that("%||% works", {
+test_that("x and y work", {
   mock_x <- function() {
     message("executing mock x")
     "mock_x"
